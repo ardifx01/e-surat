@@ -33,7 +33,7 @@ Dibangun menggunakan **PHP**, **MySQL**, dan **Bootstrap** agar mudah digunakan 
 2. Pindahkan folder ke direktori web server (misalnya `htdocs` pada XAMPP):
 
    ```
-   C:\xampp\htdocs\e-arsip-surat
+   C:\xampp\htdocs\arsip-surat
    ```
 
 3. Import database `surat.sql` ke MySQL melalui phpMyAdmin.
@@ -53,7 +53,7 @@ Dibangun menggunakan **PHP**, **MySQL**, dan **Bootstrap** agar mudah digunakan 
 5. Jalankan aplikasi melalui browser:
 
    ```
-   http://localhost/e-arsip-surat/
+   http://localhost/arsip-surat/
    ```
 
 ---
@@ -80,7 +80,6 @@ Dibangun menggunakan **PHP**, **MySQL**, dan **Bootstrap** agar mudah digunakan 
 * Data Surat Keluar
 * Disposisi Surat
 
-*(tambahkan screenshot di folder `/screenshots`)*
 
 ---
 
@@ -98,10 +97,3 @@ Password: `admin123`
 
 Proyek ini dibuat untuk keperluan tugas kuliah mata kuliah **Pengembangan Aplikasi Basis Data**.
 Boleh digunakan, dimodifikasi, dan dikembangkan lebih lanjut sesuai kebutuhan.
-
-```
-
----
-
-Apakah README ini mau saya **sesuaikan tampilannya dengan tabel** (misalnya daftar fitur dan akun demo dalam tabel), supaya lebih rapi di GitHub?
-```
