@@ -27,7 +27,7 @@ Dibangun menggunakan **PHP**, **MySQL**, dan **Bootstrap** agar mudah digunakan 
 ## ⚙️ Instalasi
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/e-arsip-surat.git
+   git clone https://github.com/hendriksultan/e-surat.git
 ````
 
 2. Pindahkan folder ke direktori web server (misalnya `htdocs` pada XAMPP):
